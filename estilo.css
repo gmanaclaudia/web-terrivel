@@ -1,4 +1,18 @@
 body {
   display: table;
   margin: 0 auto;
+  border: 1px solid black;
+  padding: 5px;
+  line-height: 2.5;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 24px;
+  color: #534F4F;
+  text-align: center;
+}
+
+span {
+  color: red;
 }
